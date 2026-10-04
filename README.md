@@ -2,10 +2,9 @@
   <h1>Hi, I'm Sharuk Khan Pathan 👋</h1>
   
   <p><b>Data Science | Data Analysis | Machine Learning </b></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Data+Science;Data+Analysis;Machine+Learning" alt="Typing SVG" />
 </div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=700&lines=AI+Engineer+in+Progress;Machine+Learning+%26+Deep+Learning+Enthusiast;Future+AI+Agent+Engineer" alt="Typing SVG" />
-
 ---
 
 ## 🚀 What I'm Working On

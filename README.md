@@ -6,6 +6,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Data+Science;Data+Analysis;Machine+Learning" alt="Typing SVG" />
 </div>
 
+<hr>
+
 <!-- ABOUT ME SECTION -->
 <h2>📌 About Me</h2>
 

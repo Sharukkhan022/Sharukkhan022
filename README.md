@@ -3,7 +3,7 @@
   
   <p><b>Data Science | Data Analysis | Machine Learning</b></p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=500&color=36BCF7&center=true&vcenter=true&width=500&lines=Data+Science;Data+Analysis;Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=100&pause=500&color=36BCF7&center=true&vcenter=true&width=500&lines=Data+Science;Data+Analysis;Machine+Learning" alt="Typing SVG" />
 </div>
 
 <hr>
@@ -42,6 +42,7 @@
 <hr>
 
 <h3>📊 Data Science & Machine Learning</h3>
+
 <p>
   <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <br>
@@ -57,6 +58,7 @@
 <hr>
 
 <h3>⚙️ Tools & Technologies</h3>
+
 <p>
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <br>

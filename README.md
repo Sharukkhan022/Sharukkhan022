@@ -7,7 +7,6 @@
 </div>
 
 <hr>
-
 <!-- ABOUT ME SECTION -->
 <h2>📌 About Me</h2>
 
@@ -17,6 +16,7 @@
   🚀 Currently learning Machine Learning by Doing<br>
   🎯 Seeking an Engineering / Data Science Internship to solve real-world problems
 </p>
+
 
 <h2>🌱 Currently Learning & Practicing</h2>
 

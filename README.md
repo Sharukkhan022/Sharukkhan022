@@ -7,21 +7,20 @@
 </div>
 
 <!-- ABOUT ME SECTION -->
-<h2 align="center">📌 About Me</h2>
+<h2>📌 About Me</h2>
 
-<p align="center">
+<p>
   🎓 <b>Computer Science & Engineering Student</b> at RGUKT IIIT Ongole<br>
   💡 Passionate about <b>Data Science, Machine Learning, and AI Systems</b><br>
   🚀 Currently learning <b>Machine Learning by Doing </b><br>
   🎯 Seeking an <b>Engineering / Data Science Internship</b> to solve real-world problems
+  
   🌱 Currently Learning & Practicing
-  💻 <b>Data Structures & Algorithms</b> (Problem Solving & Optimization)<br>
-  🤖 <b>Machine Learning</b><br>
-  🌐 <b>Full stack project</b>
-  ☁️ <b>Cloud Computing Basics</b>
+    💻 <b>Data Structures & Algorithms</b> (Problem Solving & Optimization)<br>
+    🤖 <b>Machine Learning</b><br>
+    🌐 <b>Full stack project</b>
+    ☁️ <b>Cloud Computing Basics</b>
 </p>
-
-<hr>
 
 <hr>
 

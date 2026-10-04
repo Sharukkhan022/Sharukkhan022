@@ -1,24 +1,32 @@
 <div align="center">
   <h1>Hi, I'm Sharuk Khan Pathan 👋</h1>
   
-  <p><h2><b>Data Science | Data Analysis | Machine Learning </b></h2>h2></p>
+  <p><b>Data Science | Data Analysis | Machine Learning</b></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Data+Science;Data+Analysis;Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=500&color=36BCF7&center=true&vcenter=true&width=500&lines=Data+Science;Data+Analysis;Machine+Learning" alt="Typing SVG" />
 </div>
+
 <hr>
+
 <!-- ABOUT ME SECTION -->
-<h1>📌 About Me</h1>
+<h2>📌 About Me</h2>
 
 <p>
-  🎓 Computer Science & Engineering Student at RGUKT IIIT Ongole<br>
-  💡 Passionate about <b>Data Science, Machine Learning, and AI Systems<br>
-  🚀 Currently learning Machine Learning by Doing<br>
-  🎯 Seeking an internship / Data Science Internship to solve real-world problems<br>
-  🌱 Currently Learning & Practicing<br>
-    💻 Data Structures & Algorithms (Problem Solving & Optimization)<br>
-    🤖 Machine Learning<br>
-    🌐 Full stack project<br>
-    ☁️ Cloud Computing Basics<br>
+  🎓 <b>Computer Science & Engineering Student</b> at RGUKT IIIT Ongole<br>
+  💡 Passionate about <b>Data Science, Machine Learning, and AI Systems</b><br>
+  🚀 Currently learning <b>Machine Learning by Doing</b><br>
+  🎯 Seeking an <b>Engineering / Data Science Internship</b> to solve real-world problems
+</p>
+
+<br>
+
+<h2>🌱 Currently Learning & Practicing</h2>
+
+<p>
+  💻 <b>Data Structures & Algorithms</b> (Problem Solving & Optimization)<br>
+  🤖 <b>Machine Learning</b><br>
+  🌐 <b>Full-Stack Project Development</b><br>
+  ☁️ <b>Cloud Computing Basics</b>
 </p>
 
 <hr>
@@ -50,48 +58,28 @@
   <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
 </p>
 
+<hr>
+
 ## 📌 Featured Projects
 
 ### 🏥 Hospital Readmission Prediction
-
 Machine learning project focused on predicting hospital readmission using the **UCI Diabetes 130-US Hospitals dataset**.
 
-**Tech:** Python, Pandas, NumPy, Scikit-learn
+**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn
 
 ### 📊 E-Commerce Analytics Dashboard
-
 A full-stack analytics project for exploring e-commerce data and generating meaningful business insights.
 
-**Tech:** React, TypeScript, Node.js, Express.js, PostgreSQL
+**Tech Stack:** React, TypeScript, Node.js, Express.js, PostgreSQL
 
 ### 🧠 DSA Practice
+A collection of Data Structures & Algorithms problems solved while improving problem-solving skills.
 
-A collection of Data Structures & Algorithms problems solved while improving my problem-solving skills.
-
-**Tech:** Python
+**Tech Stack:** Python
 
 ---
 
-## 📈 Currently Learning
+## 📈 Learning Roadmap
 
 ```text
 Python → SQL → Statistics → Data Analysis → Machine Learning → Data Science
-```
-
----
-
-## 🎯 Goal
-
-To become a **Data Scientist** by developing strong skills in statistics, programming, machine learning, and real-world data analysis.
-
----
-
-## 📫 Connect With Me
-
-* GitHub: [@Sharukkhan022](https://github.com/Sharukkhan022)
-* LinkedIn: Add your LinkedIn here
-* Email: Add your email here
-
----
-
-⭐ Explore my repositories to see what I'm learning and building.

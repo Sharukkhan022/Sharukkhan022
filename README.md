@@ -9,19 +9,21 @@
 <hr>
 
 <!-- ABOUT ME SECTION -->
-<h3>📌 About Me</h3>
+<h1>📌 About Me</h1>
+
+<hr>
 
 <p>
-  🎓 Computer Science & Engineering Student at RGUKT IIIT Ongole
-  💡 Passionate about <b>Data Science, Machine Learning, and AI Systems
-  🚀 Currently learning Machine Learning by Doing 
-  🎯 Seeking an internship / Data Science Internship to solve real-world problems
+  🎓 Computer Science & Engineering Student at RGUKT IIIT Ongole<br>
+  💡 Passionate about <b>Data Science, Machine Learning, and AI Systems<br>
+  🚀 Currently learning Machine Learning by Doing<br>
+  🎯 Seeking an internship / Data Science Internship to solve real-world problems<br>
   
-  🌱 Currently Learning & Practicing
-    💻 <b>Data Structures & Algorithms (Problem Solving & Optimization)
-    🤖 Machine Learning
-    🌐 Full stack project
-    ☁️ Cloud Computing Basics
+  🌱 Currently Learning & Practicing<br>
+    💻 Data Structures & Algorithms (Problem Solving & Optimization)<br>
+    🤖 Machine Learning<br>
+    🌐 Full stack project<br>
+    ☁️ Cloud Computing Basics<br>
 </p>
 
 <hr>

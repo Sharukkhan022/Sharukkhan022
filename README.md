@@ -11,14 +11,12 @@
 <!-- ABOUT ME SECTION -->
 <h1>📌 About Me</h1>
 
-<hr>
 
 <p>
   🎓 Computer Science & Engineering Student at RGUKT IIIT Ongole<br>
   💡 Passionate about <b>Data Science, Machine Learning, and AI Systems<br>
   🚀 Currently learning Machine Learning by Doing<br>
   🎯 Seeking an internship / Data Science Internship to solve real-world problems<br>
-  
   🌱 Currently Learning & Practicing<br>
     💻 Data Structures & Algorithms (Problem Solving & Optimization)<br>
     🤖 Machine Learning<br>

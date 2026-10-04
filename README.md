@@ -68,3 +68,22 @@
   <br>
   <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
+
+<hr>
+
+<!-- CONNECT WITH ME SECTION -->
+<h2>🌐 Connect With Me</h2>
+
+<p>
+  <a href="https://github.com/Sharukkhan022" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/sharuk-khan-pathan" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br>
+  <a href="mailto:sharukkhan022@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>

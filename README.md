@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi, I'm Sharuk Khan Pathan 👋</h1>
   
-  <p><b>Data Science | Data Analysis | Machine Learning</b></p>
+  <h3><b>Data Science | Data Analysis | Machine Learning</b></h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=100&pause=500&color=36BCF7&center=true&vcenter=true&width=500&lines=Data+Science;Data+Analysis;Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=50&lines=Data+Science;Data+Analysis;Machine+Learning" alt="Typing SVG" />
 </div>
 
 <hr>
@@ -76,7 +76,7 @@
 <!-- CONNECT WITH ME SECTION -->
 <h2>🌐 Connect With Me</h2>
 
-<p align = 'center'>
+<p align='center'>
   <a href="https://github.com/Sharukkhan022" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>

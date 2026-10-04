@@ -43,6 +43,8 @@
 
 <h3>📊 Data Science & Machine Learning</h3>
 
+<hr>
+
 <p>
   <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <br>
@@ -58,6 +60,8 @@
 <hr>
 
 <h3>⚙️ Tools & Technologies</h3>
+
+<hr>
 
 <p>
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />

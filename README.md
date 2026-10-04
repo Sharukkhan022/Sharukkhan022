@@ -3,7 +3,8 @@
   
   <p><b>Data Science | Data Analysis | Machine Learning </b></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Data+Science;Data+Analysis;Machine+Learning" alt="Typing SVG" />
+<!-- Fast Typing Skills -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=500&color=36BCF7&center=true&vcenter=true&width=500&lines=Data+Science;Data+Analysis;Machine+Learning" alt="Typing SVG" />
 </div>
 ---
 

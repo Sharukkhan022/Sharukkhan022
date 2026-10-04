@@ -7,9 +7,9 @@
 </div>
 
 <hr>
-
 <!-- ABOUT ME SECTION -->
 <h2>📌 About Me</h2>
+<hr>
 
 <p>
   🎓 <b>Computer Science & Engineering Student</b> at RGUKT IIIT Ongole<br>
@@ -17,8 +17,6 @@
   🚀 Currently learning <b>Machine Learning by Doing</b><br>
   🎯 Seeking an <b>Engineering / Data Science Internship</b> to solve real-world problems
 </p>
-
-<br>
 
 <h2>🌱 Currently Learning & Practicing</h2>
 
@@ -30,9 +28,9 @@
 </p>
 
 <hr>
-
 <!-- TECH STACK SECTION -->
 <h2>🛠️ Tech Stack</h2>
+<hr>
 
 <h3>💻 Programming Languages</h3>
 <p>
@@ -42,8 +40,8 @@
 </p>
 
 <hr>
-
 <h3>📊 Data Science & Machine Learning</h3>
+<hr>
 <p>
   <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <br>
@@ -57,8 +55,8 @@
 </p>
 
 <hr>
-
 <h3>⚙️ Tools & Technologies</h3>
+<hr>
 <p>
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <br>

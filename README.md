@@ -38,8 +38,6 @@
 <p>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <br>
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
@@ -60,26 +58,15 @@
 
 <hr>
 
-## 📌 Featured Projects
-
-### 🏥 Hospital Readmission Prediction
-Machine learning project focused on predicting hospital readmission using the **UCI Diabetes 130-US Hospitals dataset**.
-
-**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn
-
-### 📊 E-Commerce Analytics Dashboard
-A full-stack analytics project for exploring e-commerce data and generating meaningful business insights.
-
-**Tech Stack:** React, TypeScript, Node.js, Express.js, PostgreSQL
-
-### 🧠 DSA Practice
-A collection of Data Structures & Algorithms problems solved while improving problem-solving skills.
-
-**Tech Stack:** Python
-
----
-
-## 📈 Learning Roadmap
-
-```text
-Python → SQL → Statistics → Data Analysis → Machine Learning → Data Science
+<h3>⚙️ Tools & Technologies</h3>
+<p>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <br>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <br>
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <br>
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <br>
+  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>

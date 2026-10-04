@@ -4,9 +4,7 @@
   <p><b>Data Science | Data Analysis | Machine Learning </b></p>
 </div>
 
-I'm a student passionate about **Data Science, Machine Learning, and Problem Solving**.
-
-I enjoy working with data, building machine learning projects, and learning how data can be used to solve real-world problems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=700&lines=AI+Engineer+in+Progress;Machine+Learning+%26+Deep+Learning+Enthusiast;Future+AI+Agent+Engineer" alt="Typing SVG" />
 
 ---
 

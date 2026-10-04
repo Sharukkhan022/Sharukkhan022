@@ -1,6 +1,8 @@
-# Hi, I'm Sharuk 👋
-
-### Student | Aspiring Data Scientist
+<div align="center">
+  <h1>Hi, I'm Sharuk Khan Pathan 👋</h1>
+  <hr>
+  <p><b>Data Science | Data Analysis | Machine Learning </b></p>
+</div>
 
 I'm a student passionate about **Data Science, Machine Learning, and Problem Solving**.
 

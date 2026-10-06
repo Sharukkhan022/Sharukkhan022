@@ -34,7 +34,7 @@
 
 <hr>
 
-<h3>📊 Data Science & Machine Learning</h3>
+<h1>📊 Data Science & Machine Learning</h1>
 
 <hr>
 
@@ -55,7 +55,6 @@
 <h1>⚙️ Tools & Technologies</h1>
 
 <hr>
-
 <p>
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <br>

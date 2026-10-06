@@ -8,29 +8,22 @@
 
 <hr>
 <!-- ABOUT ME SECTION -->
-<h2>📌 About Me</h2>
+<h1>📌 About Me</h1>
 
 <p>
   🎓 Computer Science & Engineering Student at RGUKT IIIT Ongole<br>
   💡 Passionate about Data Science, Machine Learning, and AI Systems<br>
   🚀 Currently learning Machine Learning by Doing<br>
-  🎯 Seeking an Engineering / Data Science Internship to solve real-world problems
-</p>
-
-
-<h2>🌱 Currently Learning & Practicing</h2>
-
-<p>
-  💻 Data Structures & Algorithms (Problem Solving & Optimization)<br>
-  🤖 Machine Learning<br>
-  🌐 Full-Stack Project Development<br>
-  ☁️ Cloud Computing Basics
+  🎯 Seeking an Engineering / Data Science Internship to solve real-world problems<br>
+  🌱 Currently Learning & Practicing<br>
+      💻 Data Structures & Algorithms (Problem Solving & Optimization)<br>
+      🤖 Machine Learning<br>
 </p>
 
 <hr>
 
 <!-- TECH STACK SECTION -->
-<h2>🛠️ Tech Stack</h2>
+<h1>🛠️ Tech Stack</h1>
 
 <h3>💻 Programming Languages</h3>
 <p>
@@ -59,7 +52,7 @@
 
 <hr>
 
-<h3>⚙️ Tools & Technologies</h3>
+<h1>⚙️ Tools & Technologies</h1>
 
 <hr>
 
@@ -78,7 +71,7 @@
 <hr>
 
 <!-- CONNECT WITH ME SECTION -->
-<h2>🌐 Connect With Me</h2>
+<h1>🌐 Connect With Me</h1>
 
 <p align='center'>
   <a href="https://github.com/Sharukkhan022" target="_blank">

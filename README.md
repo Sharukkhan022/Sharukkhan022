@@ -10,10 +10,10 @@
 
 ## 📌 About Me
 
-- 🎓 **Computer Science & Engineering Student** at RGUKT IIIT Ongole
-- 💡 Passionate about **Data Science, Machine Learning, and AI Systems**
-- 🚀 Currently learning **Machine Learning by Doing**
-- 🎯 Seeking an **Engineering / Data Science Internship** to solve real-world problems
+- 🎓 Computer Science & Engineering Student at RGUKT IIIT Ongole
+- 💡 Passionate about Data Science, Machine Learning, and AI Systems
+- 🚀 Currently learning Machine Learning by Doing
+- 🎯 Seeking an Engineering / Data Science Internship to solve real-world problems
 - 🌱 **Currently Learning & Practicing**
   - 💻 Data Structures & Algorithms (Problem Solving & Optimization)
   - 🤖 Machine Learning
@@ -24,43 +24,28 @@
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <br>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 
 ---
 
-## 📊 Data Science & Machine Learning
+### 📊 Data Science & Machine Learning
 
-<p>
-  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <br>
-  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <br>
-  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <br>
-  <img src="https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <br>
-  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-</p>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
 
 ---
 
-## ⚙️ Tools & Technologies
+### ⚙️ Tools & Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <br>
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <br>
-  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <br>
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <br>
-  <img src="https://img.shields.io/badge/GOOGLE_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-</p>
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/GOOGLE_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 
 ---
 

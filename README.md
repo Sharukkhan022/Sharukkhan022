@@ -26,6 +26,7 @@
 <h1>🛠️ Tech Stack</h1>
 
 <h3>💻 Programming Languages</h3>
+
 <p>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <br>
@@ -35,8 +36,6 @@
 <hr>
 
 <h1>📊 Data Science & Machine Learning</h1>
-
-<hr>
 
 <p>
   <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -54,7 +53,6 @@
 
 <h1>⚙️ Tools & Technologies</h1>
 
-<hr>
 <p>
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <br>

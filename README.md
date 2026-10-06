@@ -6,26 +6,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=50&lines=Data+Science;Data+Analysis;Machine+Learning" alt="Typing SVG" />
 </div>
 
-<hr>
-<!-- ABOUT ME SECTION -->
-<h1>📌 About Me</h1>
+---
 
-<p>
-  🎓 Computer Science & Engineering Student at RGUKT IIIT Ongole<br>
-  💡 Passionate about Data Science, Machine Learning, and AI Systems<br>
-  🚀 Currently learning Machine Learning by Doing<br>
-  🎯 Seeking an Engineering / Data Science Internship to solve real-world problems<br>
-  🌱 Currently Learning & Practicing<br>
-      💻 Data Structures & Algorithms (Problem Solving & Optimization)<br>
-      🤖 Machine Learning<br>
-</p>
+## 📌 About Me
 
-<hr>
+- 🎓 **Computer Science & Engineering Student** at RGUKT IIIT Ongole
+- 💡 Passionate about **Data Science, Machine Learning, and AI Systems**
+- 🚀 Currently learning **Machine Learning by Doing**
+- 🎯 Seeking an **Engineering / Data Science Internship** to solve real-world problems
+- 🌱 **Currently Learning & Practicing**
+  - 💻 Data Structures & Algorithms (Problem Solving & Optimization)
+  - 🤖 Machine Learning
 
-<!-- TECH STACK SECTION -->
-<h1>🛠️ Tech Stack</h1>
+---
 
-<h3>💻 Programming Languages</h3>
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -33,9 +30,9 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-<hr>
+---
 
-<h1>📊 Data Science & Machine Learning</h1>
+## 📊 Data Science & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -49,9 +46,9 @@
   <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
 </p>
 
-<hr>
+---
 
-<h1>⚙️ Tools & Technologies</h1>
+## ⚙️ Tools & Technologies
 
 <p>
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -65,20 +62,17 @@
   <img src="https://img.shields.io/badge/GOOGLE_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
 
-<hr>
+---
 
-<!-- CONNECT WITH ME SECTION -->
-<h1>🌐 Connect With Me</h1>
+## 🌐 Connect With Me
 
-<p align='center'>
+<p align="center">
   <a href="https://github.com/Sharukkhan022" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
   <a href="https://www.linkedin.com/in/sharuk-khan-pathan-05ba0340b" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
   <a href="mailto:sharukkhan022@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
